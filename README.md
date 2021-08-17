@@ -1,4 +1,4 @@
-#Multi-STGCnet: A Graph Convolution Based Spatial-Temporal Framework for Subway Passenger Flow Forecasting
+# Multi-STGCnet: A Graph Convolution Based Spatial-Temporal Framework for Subway Passenger Flow Forecasting
 
 This is a TensorFlow implementation of  Multi-STGCnet in the following paper:
 Jiexia Ye, Juanjuan Zhao, Kejiang Ye, Chengzhong Xu, Multi-STGCnet: A Graph Convolution Based Spatial-Temporal Framework for Subway Passenger Flow Forecasting, IJCNN 2020.
